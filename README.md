@@ -1,1 +1,16 @@
 # tugas-HTML
+(1)
+![alt text](https://github.com/Lukaserwindo69/tugas-HTML/blob/master/REVIEW.png (1))
+(2)
+![alt text](https://github.com/Lukaserwindo69/tugas-HTML/blob/master/REVIEW2.png (2))
+(3)
+![alt text](https://github.com/Lukaserwindo69/tugas-HTML/blob/master/REVIEW3.png (3))
+(4)
+![alt text](https://github.com/Lukaserwindo69/tugas-HTML/blob/master/REVIEW4.png (4))
+(5)
+![alt text](https://github.com/Lukaserwindo69/tugas-HTML/blob/master/REVIEW5.png (5))
+(6)
+![alt text](https://github.com/Lukaserwindo69/tugas-HTML/blob/master/REVIEW6.png (6))
+(7)
+![alt text](https://github.com/Lukaserwindo69/tugas-HTML/blob/master/REVIEW7.png (7))
+
